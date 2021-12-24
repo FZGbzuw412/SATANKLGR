@@ -19,5 +19,16 @@ CAUSED BY THIS PROGRAM.
 Windows systems of all versions
 
 ## Usage
-+ Download zip archive or glone the repository
-```git clone https://github.com/FZGbzuw412/SATANKLGR.git```
+```
+#clone or download zip archive
+git clone https://github.com/FZGbzuw412/SATANKLGR.git
+
+# go to directory with files
+cd SATANKLGR 
+
+#install essential requirements
+pip3 install -r requirements.txt
+
+#launch the installer
+python3 launcher.py
+```

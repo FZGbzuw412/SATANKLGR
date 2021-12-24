@@ -51,7 +51,7 @@ and pyarmor. It is possible to run SATANKLGR on Linux, however you will get only
 + Working exclusively with one file, no compounds, no problems
 + Not detected by antiviruses
 + Making hidden foulder in C:\ disk
-+ Does not keep data on computer
++ Authomatical removing files after sending to email
 
 # Terminating Keylogger
 So as to terminate the session of keylogger launch ```terminate.bat```

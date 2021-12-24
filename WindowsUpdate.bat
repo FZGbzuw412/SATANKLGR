@@ -1,0 +1,1 @@
+start "" d:\Python\SATANklgr\screenshots.pyw

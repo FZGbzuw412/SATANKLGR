@@ -16,7 +16,14 @@ CAUSED BY THIS PROGRAM.
 + Persistence
 
 ## Intended for:
-Windows systems of all versions
+Windows systems of all 
+
+## Requirements
++ Python 3.9.0
++ Pillow==8.4.0
++ opencv-python==4.5.3.56
++ pyinstaller==4.6
++ pyarmor==7.2.3
 
 ## Usage
 ```

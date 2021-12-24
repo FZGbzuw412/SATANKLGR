@@ -48,3 +48,5 @@ and pyarmor. It is possible to run SATANKLGR on Linux, however you will get only
 
 # Terminating Keylogger
 So as to terminate the session of keylogger launch ```terminate.bat```
+
+# Screenshots

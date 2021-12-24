@@ -14,3 +14,6 @@ CAUSED BY THIS PROGRAM.
 + Webcam
 + Screenshots
 + Persistence
+
+## Intended for:
+Windows systems of all versions

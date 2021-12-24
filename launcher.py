@@ -1,23 +1,6 @@
 from colorama import Fore
 import os
-import imghdr
-from email.message import EmailMessage
-import pyautogui
-import cv2
-import smtplib
-import time
-from cv2 import *
-import keyboard
-from datetime import datetime
-import threading
-from pynput.keyboard import Key
-from multiprocessing import Process
-import ctypes
-import platform
-import socket
-from requests import get
 import shutil
-import glob
 
 def check_sys():
     if os.name == 'nt':

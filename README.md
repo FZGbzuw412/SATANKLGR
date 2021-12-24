@@ -32,3 +32,17 @@ pip3 install -r requirements.txt
 #launch the installer
 python3 launcher.py
 ```
+
+# Note
+This application intended only for Windows Systems. In order to make an .exe file you have to launch ```launcher.py``` only on Windows.
+Besides, you need to have python 3.9.0 installed on your PC. Currently it is impossible to make an .exe file of OpenCV using the latest version of pyinstaller
+and pyarmor.
+
+# Advantages
++ Compatible with all versions of Windows including Windows 10
++ Getting obfuscated .exe file to defend your data from disassembling
++ Fast fixing code if you have any problems
++ Working exclusively with one file, no compounds, no problems
++ Not detected by antiviruses
++ Making hidden foulder in C:\ disk
++ Difficult to notice this keylogger

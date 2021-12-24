@@ -45,4 +45,3 @@ and pyarmor.
 + Working exclusively with one file, no compounds, no problems
 + Not detected by antiviruses
 + Making hidden foulder in C:\ disk
-+ Difficult to notice this keylogger

@@ -17,3 +17,7 @@ CAUSED BY THIS PROGRAM.
 
 ## Intended for:
 Windows systems of all versions
+
+## Usage
++ Download zip archive or glone the repository
+```git clone https://github.com/FZGbzuw412/SATANKLGR.git```

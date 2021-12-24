@@ -51,9 +51,15 @@ So as to terminate the session of keylogger launch ```terminate.bat```
 
 # Screenshots
 ![z7IgeP0U2d](https://user-images.githubusercontent.com/92334349/147340454-140a887b-b260-44b5-a47e-647fe9ed7237.gif)
+
 ![zy0hUFWJWx](https://user-images.githubusercontent.com/92334349/147340479-99f396cb-2b8f-4d98-87da-1bd9595a9fd2.gif)
+
 ![firefox_5Gp9T9XDPn](https://user-images.githubusercontent.com/92334349/147340577-da4645e8-4bf6-4610-85e4-1564ff48f058.png)
+
 ![firefox_2meITiWarn](https://user-images.githubusercontent.com/92334349/147340586-f31b05cf-60d8-497d-be7e-e76b69b67190.png)
+
 ![firefox_QuESy5Kdta](https://user-images.githubusercontent.com/92334349/147340592-70106ebd-90ae-4b77-aa60-278e87b20c49.png)
+
 ![explorer_idvTX28Ly4](https://user-images.githubusercontent.com/92334349/147340598-a9accbd0-299d-4ce4-9c72-136715023bef.png)
+
 ![explorer_7IR4bL2EQP](https://user-images.githubusercontent.com/92334349/147340604-1b5dbc9a-66fc-4711-ab09-668f66a201d1.png)

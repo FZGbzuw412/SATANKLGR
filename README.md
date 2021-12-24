@@ -16,7 +16,7 @@ CAUSED BY THIS PROGRAM.
 + Persistence
 
 ## Intended for:
-Windows systems of all 
+Windows systems of all versions
 
 ## Requirements
 + Python 3.9.0

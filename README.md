@@ -1,6 +1,6 @@
 # SATANKLGR
 
-https://img.shields.io/endpoint?logo=Python&logoColor=3.9.0&url=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-390%2F
+![sd](https://img.shields.io/endpoint?logo=Python&logoColor=3.9.0&url=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-390%2F)
 
 ![Безымянный](https://user-images.githubusercontent.com/92334349/147391569-5c5192f5-6829-49a3-b43d-9a5eb9d4f597.png)
 

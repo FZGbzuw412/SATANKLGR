@@ -86,7 +86,7 @@ So as to terminate the session of keylogger launch [terminate.bat](https://githu
 ![explorer_7IR4bL2EQP](https://user-images.githubusercontent.com/92334349/147340604-1b5dbc9a-66fc-4711-ab09-668f66a201d1.png)
 
 ## Intentions
-In the following updated it is planned to add a feature to add to the StartUp. If you would like to assist me, feel free to write me. For that purpose refer to the next paragraph.
+In the following updates it is planned to add a feature to add to the StartUp. If you would like to assist me, feel free to write me. For that purpose refer to the next paragraph.
 
 ## Contacts
 If you have any suggestions concerning this project refer to vidiksmirka@gmail.com

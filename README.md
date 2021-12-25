@@ -13,7 +13,6 @@ CAUSED BY THIS PROGRAM.
 + Keystrokes
 + Webcam
 + Screenshots
-+ Persistence
 
 ## Intended for:
 Windows systems of all versions

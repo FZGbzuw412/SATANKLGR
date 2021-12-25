@@ -39,6 +39,9 @@ pip3 install -r requirements.txt
 python3 launcher.py
 ```
 
+## How it works
+When you launch compiled ```SATANKLGR.exe``` it authomatically creates a hidden foulder in C disc and subsequently gradually adds taken screenshots and webcam snaps. Then the programm appears in Task Manager works here all of the time. In case you choose all options it will works the same way, but if you have chosen an option without webcam and screenshots it will not create a foulder. If you generated file containing all the stuff it will add an exeption to the code, so on condition that webcamera is unplugged the programm will not be terminated. Since currently it does not add itself to the StartUp the session halts when computer is shutdown.
+
 # Note
 This application intended only for Windows Systems. In order to make an .exe file you have to launch ```launcher.py``` only on Windows.
 Besides, you need to have python 3.9.0 installed on your PC. Currently it is impossible to make an .exe file of OpenCV using the latest version of pyinstaller
@@ -50,7 +53,7 @@ and pyarmor. It is possible to run SATANKLGR on Linux, however you will get only
 + Fast fixing code if you have any problems
 + Working exclusively with one file, no compounds, no problems
 + Not detected by antiviruses
-+ Making hidden foulder in C:\ disk
++ Making hidden foulder in C:\ disc
 + Authomatical removing files after sending to email
 
 # Terminating Keylogger

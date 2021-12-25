@@ -1,11 +1,6 @@
 # SATANKLGR
-<dt>center</dt>
-<dd>
-SATANKLGR
-</dd>        
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/92334349/147334133-46a91f95-efcc-473b-862b-6cf1c4867d06.png"/>
-</p>
+
+![Безымянный](https://user-images.githubusercontent.com/92334349/147391569-5c5192f5-6829-49a3-b43d-9a5eb9d4f597.png)
 
 ⛤Keylogger Generator for Windows written in Python⛤
 ## Disclamer

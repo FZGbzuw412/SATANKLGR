@@ -45,8 +45,6 @@ This application intended only for Windows Systems. In order to make an .exe fil
 Besides, you need to have python 3.9.0 installed on your PC. Currently it is impossible to make an .exe file of OpenCV using the latest version of pyinstaller
 and pyarmor. It is possible to run SATANKLGR on Linux, however you will get only .py file with source code. Afterwards you can go to Windows and compile file to .exe using ```pyarmor pack --clean -e "--onefile --icon default.ico" SATANKLGR.py```
 
-If you need to add keylogger to StartUp use file ```addtosturtup.py```. There were some problems with compiling .exe file in one main file.
-
 # Advantages
 + Compatible with all versions of Windows including Windows 10
 + Getting obfuscated .exe file to defend your data from disassembling
@@ -55,7 +53,7 @@ If you need to add keylogger to StartUp use file ```addtosturtup.py```. There we
 + Not detected by antiviruses
 + Making hidden foulder in C:\ disk
 + Authomatical removing files after sending to email
-+ Adding to StartUp (optional)
++ Adding to StartUp
 
 # Terminating Keylogger
 So as to terminate the session of keylogger launch ```terminate.bat```

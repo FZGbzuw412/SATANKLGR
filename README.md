@@ -1,4 +1,4 @@
-# SATANKLGR https://img.shields.io/badge/Python-3.9-blue
+# SATANKLGR ![shield](https://img.shields.io/badge/Python-3.9-blue)
 
 ![Безымянный](https://user-images.githubusercontent.com/92334349/147391569-5c5192f5-6829-49a3-b43d-9a5eb9d4f597.png)
 

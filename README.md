@@ -19,7 +19,7 @@ CAUSED BY THIS PROGRAM.
 Windows systems of all versions
 
 ## Requirements
-+ Python 3.9 [GitHub Pages](https://www.python.org/downloads/release/python-390/).
++ [Python 3.9](https://www.python.org/downloads/release/python-390/).
 + Pillow==8.4.0
 + opencv-python==4.5.3.56
 + pyinstaller==4.6

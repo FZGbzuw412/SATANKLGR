@@ -1,6 +1,6 @@
 # SATANKLGR
 
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/FZGbzuw412/SATANKLGR?logo=Python)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/FZGbzuw412/SATANKLGR?logo=Python&logoColor=3.9)
 
 ![Безымянный](https://user-images.githubusercontent.com/92334349/147391569-5c5192f5-6829-49a3-b43d-9a5eb9d4f597.png)
 

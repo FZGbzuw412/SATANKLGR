@@ -41,7 +41,7 @@ python3 launcher.py
 ```
 
 ## How it works
-When you launch compiled ```SATANKLGR.exe``` it authomatically creates a hidden foulder in C disc and subsequently gradually adds taken screenshots and webcam snaps. Then the programm appears in Task Manager works here all of the time. In case you choose all options it will work the same way, but if you have chosen an option without webcam and screenshots it will not create a foulder. If you generated file containing all the stuff it will add an exeption to the code, so on condition that webcamera is unplugged the programm will not be terminated. Since currently it does not add itself to the StartUp the session halts when computer is shutdown.
+When you launch compiled ```SATANKLGR.exe``` it authomatically creates a [hidden foulder](https://github.com/FZGbzuw412/SATANKLGR#hidden-foulder) in C disc and subsequently gradually adds taken screenshots and webcam snaps. Then the programm appears in Task Manager works here all of the time. In case you choose all options it will work the same way, but if you have chosen an option without webcam and screenshots it will not create a foulder. If you generated file containing all the stuff it will add an exeption to the code, so on condition that webcamera is unplugged the programm will not be terminated. Since currently it does not add itself to the StartUp the session halts when computer is shutdown.
 
 # Note
 This application intended only for Windows Systems. In order to make an .exe file you have to launch [launcher.py](https://github.com/FZGbzuw412/SATANKLGR/blob/main/launcher.py) only on Windows.

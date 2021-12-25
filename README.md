@@ -1,4 +1,4 @@
-# SATANKLGR
+<p align="center"># SATANKLGR</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/92334349/147334133-46a91f95-efcc-473b-862b-6cf1c4867d06.png"/>
 </p>

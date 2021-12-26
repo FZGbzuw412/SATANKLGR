@@ -48,12 +48,15 @@ pyinstaller --onefile startup.py
 When you launch compiled ```startup.exe``` it authomatically creates a [hidden foulder](https://github.com/FZGbzuw412/SATANKLGR#hidden-foulder) in C disk and move ```SATANKLGR.exe``` to this [foulder](https://github.com/FZGbzuw412/SATANKLGR#hidden-foulder). Then it launches ```SATANKLGR.exe``` from the foulder and the programm appears in Task Manager and works here all of the time. After that moment you can delete ```startup.exe```. Subsequently, the application will add taken screenshots and webcam snaps to the ```Public 3D Objects``` gradually. After app send them to [specified email](https://github.com/FZGbzuw412/SATANKLGR#messages). In case you choose all options it will work the same way, but if you have chosen an option without webcam and screenshots it will not create a foulder. If you generated file containing all the stuff it will add an exeption to the code, so on condition that webcamera is unplugged the programm will not be terminated.
 
 # Note
-This application intended only for Windows Systems. In order to make an .exe file you have to launch [launcher.py](https://github.com/FZGbzuw412/SATANKLGR/blob/main/launcher.py) only on Windows.
-Besides, you need to have python 3.9.0 installed on your PC. Currently it is impossible to make an .exe file of OpenCV using the latest version of pyinstaller
+- This application intended only for Windows Systems. In order to make an .exe file you have to launch [launcher.py](https://github.com/FZGbzuw412/SATANKLGR/blob/main/launcher.py) only on Windows.
+
+- Besides, you need to have python 3.9.0 installed on your PC. Currently it is impossible to make an .exe file of OpenCV using the latest version of pyinstaller
 and pyarmor. 
-It is possible to run SATANKLGR on Linux, however you will get only .py file with source code. Afterwards you can go to Windows and compile file to .exe using 
+
+- It is possible to run SATANKLGR on Linux, however you will get only .py file with source code. Afterwards you can go to Windows and compile file to .exe using 
 ```pyarmor pack --clean -e "--onefile --icon default.ico" SATANKLGR.py```
-If you have an antivirus, turn it off when you launch the ```launcher.py```
+
+- If you have an antivirus, turn it off when you launch the ```launcher.py```
 
 # Advantages
 + Compatible with all versions of Windows including Windows 10
@@ -97,9 +100,9 @@ If you have any suggestions concerning this project refer to FZGbzuw412a@protonm
 
 ## Licence
 
-*MIT License
+MIT License
 
-*Copyright (c) 2021 FZGbzuw412
+Copyright (c) 2021 FZGbzuw412
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

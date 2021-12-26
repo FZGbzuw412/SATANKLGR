@@ -11,10 +11,10 @@ THE DEVELOPER FZGbzuw412 ASSUMES NO LIABILITY AND IS NOT RESPONSIBLE FOR ANY MIS
 CAUSED BY THIS PROGRAM.
 
 ## Features
-[x] Keystrokes
-[x] Webcam
-[x] Screenshots
-[x] Persistence
+[ ] Keystrokes
+[ ] Webcam
+[ ] Screenshots
+[ ] Persistence
 
 ## Intended for:
 Windows systems of all versions (Windows 10 is highly recommended)

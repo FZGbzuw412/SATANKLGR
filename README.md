@@ -97,9 +97,9 @@ If you have any suggestions concerning this project refer to FZGbzuw412a@protonm
 
 ## Licence
 
-MIT License
+*MIT License
 
-Copyright (c) 2021 FZGbzuw412
+*Copyright (c) 2021 FZGbzuw412
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

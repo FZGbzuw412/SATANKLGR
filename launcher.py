@@ -111,7 +111,6 @@ from cv2 import *
 from datetime import datetime
 import threading
 import ctypes
-from os import path
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -204,7 +203,6 @@ from threading import Timer
 from datetime import datetime
 import keyboard
 import ctypes
-from os import path
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -273,7 +271,6 @@ from datetime import datetime
 import threading
 from multiprocessing import Process
 import ctypes
-from os import path
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -389,7 +386,6 @@ from datetime import datetime
 import threading
 from multiprocessing import Process
 import ctypes
-from os import path
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -528,7 +524,6 @@ import pyautogui
 import os
 import threading
 import ctypes
-from os import path
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -590,7 +585,6 @@ import threading
 from multiprocessing import Process
 import ctypes
 from datetime import datetime
-from os import path
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 
@@ -693,7 +687,6 @@ import os
 import cv2
 import threading
 import ctypes
-from os import path
 
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )
 

@@ -83,7 +83,7 @@ _Why does the file `SATANKLGR.py` have exactly .py extension, not .pyw?_
 <br/>  
 
 _Why did you add all in one file and did not build dependencies, so your code become less_?  
-> As a matter of facts, I was thinking about it for a long time, but I have reached the definitive decision to gather them all in one file, so as to avoid possible further problems. What do I mean? First off, user can rename files with source code or move then to anouther foulder and finally application will not work.  
+> As a matter of facts, I was thinking about it for a long time, but I have reached the definitive decision to gather them all in one file, so as to avoid possible further problems. What do I mean? For example, user can rename files with source code or move then to anouther foulder and finally application will not work.  
 <br/>  
 
 _Do you intend to proceed the development of this tool?_  

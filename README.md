@@ -78,7 +78,7 @@ _Is it legal?_
 > Yes. But only if your target machine is your own computer or you do the **allowed** penetration testing  
 <br/>
 _Why does the file `SATANKLGR.py` have exactly .py extension, not .pyw?_  
-It was done, because currently `pyarmor` module does not support .pyw extension. It order to compensate this issue, I added this line of code `ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )`. So the app can be launched invisibly  
+> It was done, because currently `pyarmor` module does not support .pyw extension. It order to compensate this issue, I added this line of code `ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )`. So the app can be launched invisibly  
 <br/>
 _Why did you add all in one file and did not build dependencies, so your code become less_?  
 As a matter of facts, I was thinking about it for a long time, but I have reached the definitive decision to gather them all in one file, so as to avoid possible further problems. What do I mean? First off, user can rename files with source code or move then to anouther foulder and finally application will not work.  

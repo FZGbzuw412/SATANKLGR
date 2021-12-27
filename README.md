@@ -79,7 +79,7 @@ _Is it legal?_
 <br/> 
 
 _Why does the file `SATANKLGR.py` have exactly .py extension, not .pyw?_  
-> It was done, because currently `pyarmor` module does not support .pyw extension. It order to compensate this issue, I added this line of code `ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )`. So the app can work invisibly  
+> It was done, because currently `pyarmor` module does not support .pyw extension. It order to compensate this issue, I added this line of code `ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )` to compel the app to work invisibly  
 <br/>  
 
 _Why did you add all in one file and did not build dependencies, so your code become less_?  

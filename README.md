@@ -75,7 +75,7 @@ So as to terminate the session of keylogger launch [terminate.bat](https://githu
 
 # FAQ
 _Is it legal?_  
-Yes. But only if your target machine is your own computer or you do the **allowed** penetration testing  
+> Yes. But only if your target machine is your own computer or you do the **allowed** penetration testing  
 <br/>
 _Why does the file `SATANKLGR.py` have exactly .py extension, not .pyw?_  
 It was done, because currently `pyarmor` module does not support .pyw extension. It order to compensate this issue, I added this line of code `ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )`. So the app can be launched invisibly  

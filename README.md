@@ -3,6 +3,8 @@
 ![dfsd](https://user-images.githubusercontent.com/92334349/147391569-5c5192f5-6829-49a3-b43d-9a5eb9d4f597.png)
 
 ⛤Keylogger Generator for Windows written in Python⛤
+##
+🤝If you like this project, please press a star. It really motivates me to continue development of this tool and not to give it up🤝
 
 ## Disclamer
 
@@ -117,8 +119,6 @@ _Do you intend to proceed the development of this tool?_
 
 ![explorer_7IR4bL2EQP](https://user-images.githubusercontent.com/92334349/147340604-1b5dbc9a-66fc-4711-ab09-668f66a201d1.png)
 
-##
-🤝If you like this project, please press a star. It really motivates me to continue development of this tool and not to give it up🤝
 
 ## Contacts
 If you have any suggestions concerning this project refer to FZGbzuw412a@protonmail.com

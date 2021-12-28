@@ -6,7 +6,6 @@
 ##
 🤝If you like this project, please press a star. It really motivates me to continue development of this tool and not to give it up🤝
 ##
-
 ## Disclamer
 
 THIS SOFTWARE IS INTENDED ONLY FOR EDUCATION PURPOSES! DO NOT USE IT TO INFLICT 

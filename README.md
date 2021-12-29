@@ -41,6 +41,8 @@ pip3 install -r requirements.txt
 
 #launch the installer
 python3 launcher.py
+or
+launcher.py
 
 #compile startup.py
 pyinstaller --onefile startup.py

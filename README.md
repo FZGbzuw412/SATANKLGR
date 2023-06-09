@@ -23,7 +23,7 @@ Windows systems of all versions (Windows 10 is highly recommended)
 
 ## Requirements
 + [Python 3.9](https://www.python.org/downloads/release/python-390/).
-+ Pillow==9.0.0
++ Pillow==9.5.0
 + opencv-python==4.5.3.56
 + pyinstaller==4.6
 + pyarmor==7.2.3
